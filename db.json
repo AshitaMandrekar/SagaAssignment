@@ -1,0 +1,26 @@
+{
+    "foods": [
+      {
+        "id": 1,
+        "name": "Pasta",
+        "image": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+        "description": "Delicious Italian pasta.",
+        "recipe": "Boil pasta. Add sauce. Mix well."
+      },
+      {
+        "id": 2,
+        "name": "Pizza",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+        "description": "Cheesy pizza with toppings.",
+        "recipe": "Prepare dough. Add toppings. Bake in oven."
+      },
+      {
+        "id": 3,
+        "name": "Burger",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cheeseburger.jpg",
+        "description": "Juicy burger with veggies.",
+        "recipe": "Grill patty. Add veggies and sauce. Serve."
+      }
+    ]
+  }
+  
